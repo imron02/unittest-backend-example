@@ -1,5 +1,5 @@
 # Backend Unit Test Example
-This project is used to support the project [React Native Testing Library](https://callstack.github.io/react-native-testing-library/).
+This project is used to support the project [react-native-testing-example](https://github.com/imron02/react-native-testing-example).
 
 ### Instalation
 To run project please clone and install the dependencies.
